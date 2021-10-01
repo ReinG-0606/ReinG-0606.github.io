@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    padding: 0px;
+    margin: 0px;
+    color: red;
+}
+h2{
+    padding: 0px;
+    margin: 0px;
+    color: green;
+}
+h3{
+    padding: 0px;
+    margin: 0px;
+    color: blue;
+}
+p{
+    padding: 1px;
+    margin: 1px;
+}
